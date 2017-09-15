@@ -1,0 +1,65 @@
+Xamarin MVVM
+
+Preparation
+
+	• Reboot
+	• Start the Android emulator
+	• Open Youtube page Elm, Switzerland - February 2017
+	• RESET flowers (bookmark)
+	• Load MVVM session in PresentationBuddy
+	• Make sure that Surface is connected to Internet
+	• Make sure that Phone is connected to Internet
+	• Open presentation
+	• Open HelloXamarin MVVM - Start in VS
+	• Make sure snippets are loaded
+	• Font 17
+	• Open HelloXamarin MVVM 
+	• Font 17
+	• Open the Binding Sample app
+	• Font 17
+	• Open the Flowers app
+	• Open MainPage.xaml in designer
+	• Open MainWindows.xaml (WPF) in designer
+	• Font 17
+	• Open the Flowers Forms app
+	• Font 17
+	• Check that HelloAndroid is installed and works on Android
+	• Check that Binding sample is installed and works on Android
+	• Check that Flowers is installed and works on Android
+	• Check that Flowers.Forms is installed and works on Android
+	• Check that HelloWindows is installed and works on Windows
+	• Check that Flowers is installed and works on Windows
+	• Check that Flowers.Forms is installed and works on Windows
+	• Connect phone to Surface
+	• Test ProjectMyScreen
+
+Introduction	2'	0:02
+Reminder MVC / MVVM	5'	0:07
+Why MVVM?	3'	0:10
+Demo refactoring	20'	0:30
+        • Open HelloXamarin MVVM - Start
+        • Show in emulator
+        • Add MVVM Light to Android project
+        • Show how we create the PCL
+        • Move the ViewModel folder to the class library
+        • Add a reference to the class library into the app
+        • Add a Unit test project
+        • Add a reference to the class library into the unit test app
+        • Implement MainViewModel
+        • Implement TestSample class
+        • Run unit test
+        • Add and implement App.cs
+        • Implement MainActivity
+        • Run main app
+        • Show the full solution with iOS and UWP too
+Abstraction	3'	0:33
+Introducing MVVM Light	3'	0:33
+Data binding in Xamarin	7'	0:43
+Demo Binding Evolve, Flowers	9'	0:52
+        • Run the application
+        • Explain the scenarios
+        • Show the code
+MVVM in Xamarin.Forms	2'	0:54
+Demo Xamarin.Forms	3'	0:57
+        • Show Flowers.Forms
+Resources, Conclusion	3'	1:00
