@@ -2,6 +2,8 @@
 
 My code samples for the MonkeyFest Xamarin conference 2017 in Singapore.
 
+> Note: [The Flowers sample can be found here](https://github.com/lbugnion/sample-crossplatform-flowers)
+
 # Presentation details, Slides
 
 You can see the details and the slides here:
@@ -30,3 +32,4 @@ Shows a sample with observable lists for iOS.
 ### Flowers
 
 A complete MVVM Light sample app for Xamarin.iOS, Xamarin.Android, Windows 10, Xamarin.Forms and more.
+See https://github.com/lbugnion/sample-crossplatform-flowers
